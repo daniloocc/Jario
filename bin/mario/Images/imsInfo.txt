@@ -1,0 +1,23 @@
+// imsInfo.txt images
+
+// title/help screen
+o title.gif
+
+//imagem do mario tem 2 tiles
+s mario.gif 2
+s mario1.gif 2
+o jumpUp.gif
+o jumpDown.gif
+o crouch.png
+
+//the tile set
+o tileset.png
+
+// scenery images
+t tileset background1_1.txt 16
+t tileset background1_2.txt 16
+t tileset background1_3.txt 16
+
+// CannonBall and its explosion
+o cannonball.png
+s explosion.gif 5

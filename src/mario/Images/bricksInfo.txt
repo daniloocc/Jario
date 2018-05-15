@@ -1,0 +1,23 @@
+//faseteste
+s brickset.png 27
+
+// -----------
+                                                                                                                                                                                                                                                
+                                                                                                                        K                                                                     KKKKKKKKKK    JJJJJJJJ   IIII     IIIIIII        *
+F                                                                                                                       K                                                                                                                      E
+D                                            KKKKKKK      ST                                                   KKKKKKKKKKKKKKKKKK                                                       KKKK                                                   C
+D                                          KKKK    KK     QR                                               J                                                                     KKKK                                                       KKKC
+D                                        KKKK       KK    QR                                                                                                   OP           KKK                                                                C
+D                                                    KKKKKKKKKKKKKKK                                      KK                                                   MN       KK                                                              KKK    C
+D                                EBBBF                                             OP                                                                          MN     K                                                                        C
+D                                CAAAD                                             MN                  LLLLL                                      LLL         KMN                                                                   KKK        C
+D                          JLJ   CAAAHBF                                         STMNK                                                                    EBBBBBBBBBBF                                                                         C
+D                              OPCAAAAAD                                        YQRMNK                                                                    CAAAAAAAAAAHBF                                                         KKK           C
+D                        EBBBBBMNCAAAAAD                                        ZQRMNKK            EBBBBBBBBBBF                                 EBBBBBBBBBGAAAAAAAAAAAAHBF                             ST                                      C
+D                     K  CAAAAAMNCAAAAAHBF                                     YZQRMNKKK           CAAAAAAAAAAD     JJJJ                        CAAAAAAAAAAAAAAAAAAAAAAAAD                        ST   QR    ST             KKKK               C
+D                  K  K  CAAAAAMNCAAAAAAAD                                    YZZQRMNKKKK          CAAAAAAAAAAD                                 CAAAAAAAAAAAAAAAAAAAAAAAAHF                       QR   QR    QR                                C
+D                K K  K  CAAAAAMNCAAAAAAAHBF                                  ZZZQRMNKKKKK        KCAAAAAAAAAAD                             EBBBGAAAAAAAAAAAAAAAAAAAAAAAAAHBBBBBBBF          ST   QR   QR    QR        KKKKK                   C
+D              K K K KKK CAAAAAMNCAAAAAAAAAD                                  ZZZQRMNKKKKK     EBBBGAAAAAAAAAAHBBBBBBBBBBF                  CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD          QR   QR   QR    QR    KKK                         C
+D              K K K KKK CAAAAAMNCAAAAAAAAAD                           EBBBBBBBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAAAAAAAAAAAD                  CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD          QR   QR   QR    QR                                C
+HBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAHBBBBBBBBBBBBF   EBBBBBBBBBBGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBG
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

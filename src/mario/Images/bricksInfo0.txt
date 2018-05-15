@@ -1,0 +1,26 @@
+
+// bricks information
+
+s brickset.png 27
+
+
+// -----------
+F                                                                                                                                                                                                                                              
+D        K    K                                                                                                                                                                                                                                
+D                        KKKKKKKK                                                                                                                                                            K          KKKKKKKKKKKKKKKK                       
+D                                          KKKKKKKK                                                                                                                                                                   KKKKKKKK                 
+D                                                 KKKKKK                                                                                                                                                                    KKKKKKKKKK         
+D                                                      KKKKKKK                                                                                                                   IIII                                       KKKKKKKKKKEBBBBBBBB
+D                                                            KKKKKKK                                                                                                                                                                  CAAAAAAAA
+D                                                                                                                            ST                                                                                                       CAAAAAAAA
+D                                                                                                                           YQRST                                      UV                                                             CAAAAAAAA
+D                                                     IIIIIIIIIIIIIIIIIIIIIIIIIIII        KKKKKKKKKKKKKKKKKKKKKKKKKKK       ZQRQR                                      WX                                                             CAAAAAAAA
+D                                                 IIIIIIII                                                       KKKKKKKKKKKKKKKKKKKKKKKKKKKKK                         WX                                                   ST        CAAAAAAAA
+D                                            IIIIIIII                                                                                                            EBBBBBBBBBBF                                               QRST      CAAAAAAAA
+D                          IIIIIIIIIIIIIIIIIIIIIII                     OP                                                                                        CAAAAAAAAAAD                                              YQRQR      CAAAAAAAA
+D                                                                      MNOP                                                                                      CAAAAAAAAAAHBBBBBF                                        ZQRQRY     CAAAAAAAA
+D                                                                      MNMN                                                                                EBBBBBGAAAAAAAAAAAAAAAAHBBBBBBF                                 ZQRQRZY    CAAAAAAAA
+D                                                                      MNMN                                                                                CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHBF                               ZQRQRZZ    CAAAAAAAA
+HBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+// -----------

@@ -1,0 +1,29 @@
+
+// bricks information
+
+s brickset.png  27
+
+
+// -----------
+
+                                                                                                                                                                                                                                              
+             K                                                                                                                                                                                                                                
+             K                                                                                                                                                                                                                                
+             K                                                                                    I        I        I        I        I        I        I        I       II                                                                   
+             K               KKKKKKK                                                                                                                                     II                                                                 EB
+             K               K     KKK                                 IIII          EBBF                                                                                 II                                                                CA
+             KKKKKKKKKKKKKKKKK                                                       CAAD                                                                                  II                                                               CA
+                                                          IIII                       CAAD                                                                                   II                                                              CA
+BF                                                                                   CAAD                                                                                    II                                                             CA
+AD                                           IIII                                   ICAAD                                                            IIIIIII                  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                            CA
+AD                                                                                   CAAD                                                                                                  I    K              EBBBBBBBBBBBBBF              CA
+AD                                                                                   CAAD                                                                            IIIIIII               I    K              CAAAAAAAAAAAAAD              CA
+AD                                                   IIII                           ICAAD                                                                                                  I    KKKKKKK        CAAAAAAAAAAAAAHF             CA
+AD                                                                                   CAAD                                                                                                             K        CAAAAAAAAAAAAAAD             CA
+AD                          EBBBF            IIII                                    CAAD                                                                  EBBBBBBF                                   KKKK   STCAAAAAAAAAAAAAAHF   IIIIIII  CA
+AD                          CAAAD                                                   ICAAD               P P PY                                 EBBBBF      CAAAAAAD                IIIIIIIIIIIII             QRCAAAAAAAAAAAAAAAD            CA
+AD                          CAAAD                                                    CAAD   ST         MNMNMNZY                 EBBBBBBBF      CAAAAD      CAAAAAAHBBBBBBBBBBBBF                             QRCAAAAAAAAAAAAAAAHF           CA
+AD                          CAAAD        III       III       III          III        CAAD   QRY        MNMNMNZZY                CAAAAAAAD      CAAAAD      CAAAAAAAAAAAAAAAAAAAD                          KKKKKCAAAAAAAAAAAAAAAAD           CA
+AHBBBBBBBF       EBBBBBBBBBBGAAAD                                                    CAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAD      CAAAAD      CAAAAAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAHBBBBBBBBBBBGA
+AAAAAAAAADAAAAAAACAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAACAAAADAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+// -----------
